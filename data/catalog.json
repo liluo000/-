@@ -1,0 +1,123 @@
+[
+  {
+    "sku_id": "SKU01",
+    "name": "绿色加碘精制盐（省内高碘版）",
+    "short_name": "绿色加碘精制盐",
+    "spec": "400g",
+    "reference_price": 2.5,
+    "keywords": ["绿色加碘精制盐", "加碘精制盐", "绿色食品", "放心好盐"],
+    "negative_keywords": ["未加碘"],
+    "reference_image": "data/reference_images/SKU01.png"
+  },
+  {
+    "sku_id": "SKU02",
+    "name": "海藻碘盐（高碘）",
+    "short_name": "海藻碘盐",
+    "spec": "320g",
+    "reference_price": 3.5,
+    "keywords": ["海藻碘盐", "海藻盐"],
+    "negative_keywords": ["低钠", "未加碘"],
+    "reference_image": "data/reference_images/SKU02.png"
+  },
+  {
+    "sku_id": "SKU03",
+    "name": "海藻碘低钠盐（高碘）",
+    "short_name": "海藻碘低钠盐",
+    "spec": "320g",
+    "reference_price": 4.0,
+    "keywords": ["海藻碘低钠盐", "海藻低钠盐", "低钠盐"],
+    "negative_keywords": ["未加碘"],
+    "reference_image": "data/reference_images/SKU03.png"
+  },
+  {
+    "sku_id": "SKU04",
+    "name": "加碘生态井矿盐（高碘）",
+    "short_name": "加碘生态井矿盐",
+    "spec": "320g",
+    "reference_price": 4.0,
+    "keywords": ["加碘生态井矿盐", "生态井矿盐", "生态井矿"],
+    "negative_keywords": ["未加碘", "997"],
+    "reference_image": "data/reference_images/SKU04.png"
+  },
+  {
+    "sku_id": "SKU05",
+    "name": "未加碘生态井矿盐",
+    "short_name": "未加碘生态井矿盐",
+    "spec": "320g",
+    "reference_price": 4.0,
+    "keywords": ["未加碘生态井矿盐", "未加碘井矿盐", "生态井矿盐"],
+    "negative_keywords": ["加碘生态", "997"],
+    "reference_image": "data/reference_images/SKU05.png"
+  },
+  {
+    "sku_id": "SKU06",
+    "name": "松態997加碘生态井矿盐（高碘）",
+    "short_name": "松態997生态井矿盐",
+    "spec": "320g",
+    "reference_price": 6.8,
+    "keywords": ["松態997", "997", "生态井矿盐"],
+    "negative_keywords": ["未加碘"],
+    "reference_image": "data/reference_images/SKU06.png"
+  },
+  {
+    "sku_id": "SKU07",
+    "name": "加碘生态海盐（高碘）",
+    "short_name": "加碘生态海盐",
+    "spec": "320g",
+    "reference_price": 5.0,
+    "keywords": ["加碘生态海盐", "生态海盐"],
+    "negative_keywords": ["未加碘", "青海湖"],
+    "reference_image": "data/reference_images/SKU07.png"
+  },
+  {
+    "sku_id": "SKU08",
+    "name": "未加碘青海湖盐",
+    "short_name": "未加碘青海湖盐",
+    "spec": "320g",
+    "reference_price": 8.0,
+    "keywords": ["未加碘青海湖盐", "青海湖盐", "未加碘"],
+    "negative_keywords": ["海晶"],
+    "reference_image": "data/reference_images/SKU08.png"
+  },
+  {
+    "sku_id": "SKU09",
+    "name": "加碘钙盐食用盐（高碘）",
+    "short_name": "加碘钙盐食用盐",
+    "spec": "320g",
+    "reference_price": 4.5,
+    "keywords": ["加碘钙盐食用盐", "加碘钙盐", "钙盐食用盐"],
+    "negative_keywords": ["未加碘"],
+    "reference_image": "data/reference_images/SKU09.png"
+  },
+  {
+    "sku_id": "SKU10",
+    "name": "加碘活水盐",
+    "short_name": "加碘活水盐",
+    "spec": "350g",
+    "reference_price": 3.5,
+    "keywords": ["加碘活水盐", "活水盐", "弱碱性水盐"],
+    "negative_keywords": ["未加碘"],
+    "reference_image": "data/reference_images/SKU10.png"
+  },
+  {
+    "sku_id": "SKU11",
+    "name": "未加碘海晶盐",
+    "short_name": "未加碘海晶盐",
+    "spec": "320g",
+    "reference_price": 4.5,
+    "keywords": ["未加碘海晶盐", "海晶盐", "未加碘"],
+    "negative_keywords": ["青海湖"],
+    "reference_image": "data/reference_images/SKU11.png",
+    "source_note": "原清单中该行产品名称字段与品名不一致，程序以品名和参考图片为准。"
+  },
+  {
+    "sku_id": "SKU12",
+    "name": "南岳寿山未加碘食用盐",
+    "short_name": "南岳寿山未加碘盐",
+    "spec": "320g",
+    "reference_price": 3.5,
+    "keywords": ["南岳寿山", "未加碘食用盐", "寿山盐"],
+    "negative_keywords": [],
+    "reference_image": "data/reference_images/SKU12.png"
+  }
+]

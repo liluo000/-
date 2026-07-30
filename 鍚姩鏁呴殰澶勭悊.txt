@@ -1,0 +1,9 @@
+启动方式：
+1. 双击 OPEN_CONFIG.bat，在 DASHSCOPE_API_KEY= 后粘贴阿里云百炼 API Key，保存。
+2. 双击 START_HERE.bat。
+3. 第一次安装依赖可能需要 3～15 分钟。
+
+如果失败：
+- 双击 RUN_DEBUG.bat，窗口不会自动关闭。
+- 如果虚拟环境损坏，先双击 RESET_VENV.bat，再重新启动。
+- 浏览器地址：http://127.0.0.1:8501

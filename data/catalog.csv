@@ -1,0 +1,13 @@
+sku_id,name,short_name,spec,reference_price,keywords,reference_image
+SKU01,绿色加碘精制盐（省内高碘版）,绿色加碘精制盐,400g,2.5,绿色加碘精制盐|加碘精制盐|绿色食品,data/reference_images/SKU01.png
+SKU02,海藻碘盐（高碘）,海藻碘盐,320g,3.5,海藻碘盐|海藻盐,data/reference_images/SKU02.png
+SKU03,海藻碘低钠盐（高碘）,海藻碘低钠盐,320g,4.0,海藻碘低钠盐|海藻低钠盐|低钠盐,data/reference_images/SKU03.png
+SKU04,加碘生态井矿盐（高碘）,加碘生态井矿盐,320g,4.0,加碘生态井矿盐|生态井矿盐,data/reference_images/SKU04.png
+SKU05,未加碘生态井矿盐,未加碘生态井矿盐,320g,4.0,未加碘生态井矿盐|未加碘井矿盐,data/reference_images/SKU05.png
+SKU06,松態997加碘生态井矿盐（高碘）,松態997生态井矿盐,320g,6.8,松態997|997|生态井矿盐,data/reference_images/SKU06.png
+SKU07,加碘生态海盐（高碘）,加碘生态海盐,320g,5.0,加碘生态海盐|生态海盐,data/reference_images/SKU07.png
+SKU08,未加碘青海湖盐,未加碘青海湖盐,320g,8.0,未加碘青海湖盐|青海湖盐,data/reference_images/SKU08.png
+SKU09,加碘钙盐食用盐（高碘）,加碘钙盐食用盐,320g,4.5,加碘钙盐食用盐|加碘钙盐,data/reference_images/SKU09.png
+SKU10,加碘活水盐,加碘活水盐,350g,3.5,加碘活水盐|活水盐,data/reference_images/SKU10.png
+SKU11,未加碘海晶盐,未加碘海晶盐,320g,4.5,未加碘海晶盐|海晶盐,data/reference_images/SKU11.png
+SKU12,南岳寿山未加碘食用盐,南岳寿山未加碘盐,320g,3.5,南岳寿山|未加碘食用盐|寿山盐,data/reference_images/SKU12.png
